@@ -12,8 +12,9 @@ En esta época hubo una gran proliferación de instrumentos musicales, cuyo uso 
 
 Durante esta época y producto de la ocupación en España y Portugal, así como de las cruzadas, la cultura musulmana influyó significativamente en el desarrollo de instrumentos musicales de Europa. Algunos instrumentos Europeos que hoy forman parte de la orquesta son derivaciones de un instrumentos islámicos. Entre estos tenemos por ejemplo la familia de cuerdas (violín, viola, cello y contrabajo), que derivan del rebec y su precursor el rebab; el oboe que deriva del zurna, un instrumento de doble lengüeta; y el pandero, ocasionalmente usado en las orquestas, derivado del riq.
   
-[Fuente: Wikipedia](https://es.wikipedia.org/wiki/M%C3%BAsica_de_la_Edad_Media#G%C3%A9neros_y_formas_musicales)
   
 A continuación tenemos un ensamble tocando música del siglo XIV. 
   
 {% include youtubePlayer.html id=page.youtubeId %}
+  
+[Fuente: Wikipedia](https://es.wikipedia.org/wiki/M%C3%BAsica_de_la_Edad_Media#G%C3%A9neros_y_formas_musicales)

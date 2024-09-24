@@ -11,6 +11,5 @@ La pregunta que sigue es ¿por qué?
   
 ¿Cómo llegó a conformarse la orquesta como la conocemos hoy?  
 ¿Por qué algunos instrumentos están en la orquesta y otros no?  
-¿Por qué no ha cambiado en casi cien años?  
 
 ¡Sigue leyendo!
