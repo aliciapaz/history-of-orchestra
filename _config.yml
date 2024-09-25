@@ -23,5 +23,5 @@ highlighter: rouge
 lsi: false
 description: Una breve historia de la orquesta
 baseurl: "/history-of-orchestra"
-url: http://aliciapaz.github.io/history-of-orchestra
+url: https://aliciapaz.github.io/history-of-orchestra/
 color: "#f2f2f2"
