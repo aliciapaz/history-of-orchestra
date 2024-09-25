@@ -1,5 +1,5 @@
 ---
-title: Clásico
+title: Orquesta Clásica
 date: 1700-01-01 00:00:00 -0700
 initialdate: s. XVII
 finaldate: s XIX
