@@ -4,6 +4,7 @@ date: 1900-11-06 00:00:00 -0700
 initialdate: s. XX
 finaldate: presente
 youtubeId: 8Hae8dTC5iw
+youtubeId2: RS8fvElv2iI
 ---
 
 En la primera mitad del siglo XX, los directores se volvieron una nueva celebridad del mundo de la música orquestal, prácticamente al nivel de los compositores.
@@ -22,5 +23,5 @@ Frente a estas limitaciones, los compositores tuvieron que usar su ingenio para 
 
 Actualmente las orquestas son instituciones financiadas por Gobiernos o patrocinadores corporativos, que por su misma naturaleza tienden a resisitirse al cambio. Sin embargo, es innegable que ha habido una evolución en las últimas décadas. Durante toda esta historia he hablado solo de "compositores" y "músicos" por una razón, y es que hasta hace no mucho este era un campo ocupado prácticamente en su totalidad por hombres. Si bien estos siguen siendo mayoría, hoy hay más instrumentistas mujeres en las orquestas y también más compositoras. También existe más apertura para reconocer el valor de otras músicas además de la académica o formal, lo cual a su vez ha enriquecido a esta última y la ha hecho más disfrutable por diferentes tipos de públicos.
 
-
+{% include youtubePlayer.html id=page.youtubeId2 %}
 
