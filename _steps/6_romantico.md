@@ -2,7 +2,7 @@
 title: Romántico
 date: 1873-04-01 00:00:00 -0700
 initialdate: s. XIX
-finaldate: s XX
+finaldate: primera década del s. XX
 youtubeId: SD40VlGpU9w
 ---
 
@@ -22,3 +22,8 @@ En el siguiente video, el compositor Samuel Andreyev presenta una visión genera
 
 {% include youtubePlayer.html id=page.youtubeId %}
 
+Durante la primera mitad del siglo XIX y con compositores como Mendelssohn y Weber, se volvió relevante el rol del director, quien se paraba frente a la orquesta y la dirigía.
+
+Siguiendo la escuela de "más es mejor" y llevándola a un extremo aún mayor, Richard Wagner continuó expandiendo la orquesta tanto en tamaño como en instrumentación, incluso inventando sus propios instrumentos. Incrementó la sección de maderas de a2 a a3 y también aumentó el tamaño de la sección de cuerdas.
+
+Esta expansión fue de la mano de las transformaciones económicas y sociales que tuvieron lugar durante la Revolución Industrial. Conforme crecieron las ciudades, la música orquestal alcanzó públicos más amplios, lo que hizo que crecieran las salas de conciertos y con ello las orquestas, pues debían llenar esos espacios más grandes.
